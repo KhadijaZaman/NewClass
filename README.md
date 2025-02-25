@@ -20,7 +20,7 @@ The **LLM Content Evaluation Tool** is a web-based application designed to autom
 
 ### Using Google Colab (Recommended)
 1. **Open the Notebook:**  
-   Open the [Final_Project_Semantic_SEO_Scoring_Framework_[23rd_Feb_2025].ipynb](LINK_TO_YOUR_NOTEBOOK) in Google Colab.
+   Open the https://github.com/KhadijaZaman/NewClass/blob/main/Final_Project_Semantic_SEO_Scoring_Framework_%5B23rd_Feb_2025%5D.ipynb in Google Colab.
 2. **Install Dependencies:**  
    Run the cells to install required libraries (Flask, Streamlit, pyngrok, requests, and BeautifulSoup).
 3. **Launch the App:**  
