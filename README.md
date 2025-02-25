@@ -1,5 +1,5 @@
 # NewClass
-# LLM Content Evaluation Tool
+# LLM SEMANTIC SEO Evaluation Tool
 
 ## Overview
 The **LLM Content Evaluation Tool** is a web-based application designed to automatically evaluate webpage content based on semantic SEO principles. It scrapes content from a given URL, processes it using quantitative and qualitative metrics, and outputs a detailed scoring breakdown. This tool is ideal for content creators, marketers, and SEO specialists looking to improve content quality and semantic alignment.
